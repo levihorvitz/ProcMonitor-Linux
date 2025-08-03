@@ -9,4 +9,4 @@ Simple CLI tool to parse active processes from /proc and display basic informati
 
 ## Compile
 ```bash
-g++ main.cpp proc_parser.cpp -o monitor
+g++ *.cpp -o monitor
