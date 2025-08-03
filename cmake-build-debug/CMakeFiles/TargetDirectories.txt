@@ -1,0 +1,3 @@
+C:/Users/97250/CLionProjects/ProcMonitor/cmake-build-debug/CMakeFiles/ProcMonitor.dir
+C:/Users/97250/CLionProjects/ProcMonitor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/97250/CLionProjects/ProcMonitor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
